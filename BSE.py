@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 20 15:19:19 2018
 
-@author: garima.misra
-"""
 
 import lxml.html
 import requests
